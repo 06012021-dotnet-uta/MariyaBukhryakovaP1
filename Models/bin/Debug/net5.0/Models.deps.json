@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Models/1.0.0": {
+        "dependencies": {
+          "ASP.NET.MVC": "3.0.0.1"
+        },
+        "runtime": {
+          "Models.dll": {}
+        }
+      },
+      "ASP.NET.MVC/3.0.0.1": {
+        "runtime": {
+          "lib/net40/System.Web.Mvc.dll": {
+            "assemblyVersion": "3.0.0.1",
+            "fileVersion": "3.0.50813.1"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ASP.NET.MVC/3.0.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XN71nZugLXxNc39bAzG4Xz7839ktY7GIOryEU7kFyueJ5Tsfxrg0DoRk+faDPPVeuCK4tF1f8X2QFNG643p1Ew==",
+      "path": "asp.net.mvc/3.0.0.1",
+      "hashPath": "asp.net.mvc.3.0.0.1.nupkg.sha512"
+    }
+  }
+}

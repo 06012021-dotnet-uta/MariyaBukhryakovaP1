@@ -1,0 +1,110 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "ASP.NET.MVC/3.0.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net40/System.Web.Mvc.dll": {}
+        },
+        "runtime": {
+          "lib/net40/System.Web.Mvc.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ASP.NET.MVC/3.0.0.1": {
+      "sha512": "XN71nZugLXxNc39bAzG4Xz7839ktY7GIOryEU7kFyueJ5Tsfxrg0DoRk+faDPPVeuCK4tF1f8X2QFNG643p1Ew==",
+      "type": "package",
+      "path": "asp.net.mvc/3.0.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "asp.net.mvc.3.0.0.1.nupkg.sha512",
+        "asp.net.mvc.nuspec",
+        "lib/net40/System.Web.Mvc.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "ASP.NET.MVC >= 3.0.0.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\mariy\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\mariy\\OneDrive\\Desktop\\MyBatch\\MariyaBukhryakovaP1\\Project1\\Project1.csproj",
+      "projectName": "Project1",
+      "projectPath": "C:\\Users\\mariy\\OneDrive\\Desktop\\MyBatch\\MariyaBukhryakovaP1\\Project1\\Project1.csproj",
+      "packagesPath": "C:\\Users\\mariy\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mariy\\OneDrive\\Desktop\\MyBatch\\MariyaBukhryakovaP1\\Project1\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\mariy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "dependencies": {
+          "ASP.NET.MVC": {
+            "target": "Package",
+            "version": "[3.0.0.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'ASP.NET.MVC 3.0.0.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "ASP.NET.MVC",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}

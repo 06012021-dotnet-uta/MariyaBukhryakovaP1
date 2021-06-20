@@ -1,0 +1,12 @@
+C:\Users\mariy\OneDrive\Desktop\MyBatch\MariyaBukhryakovaP1\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+C:\Users\mariy\OneDrive\Desktop\MyBatch\MariyaBukhryakovaP1\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+C:\Users\mariy\OneDrive\Desktop\MyBatch\MariyaBukhryakovaP1\BusinessLayer\bin\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\mariy\OneDrive\Desktop\MyBatch\MariyaBukhryakovaP1\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+C:\Users\mariy\OneDrive\Desktop\MyBatch\MariyaBukhryakovaP1\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\mariy\OneDrive\Desktop\MyBatch\MariyaBukhryakovaP1\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mariy\OneDrive\Desktop\MyBatch\MariyaBukhryakovaP1\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\mariy\OneDrive\Desktop\MyBatch\MariyaBukhryakovaP1\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\mariy\OneDrive\Desktop\MyBatch\MariyaBukhryakovaP1\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\mariy\OneDrive\Desktop\MyBatch\MariyaBukhryakovaP1\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+C:\Users\mariy\OneDrive\Desktop\MyBatch\MariyaBukhryakovaP1\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
+C:\Users\mariy\OneDrive\Desktop\MyBatch\MariyaBukhryakovaP1\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
