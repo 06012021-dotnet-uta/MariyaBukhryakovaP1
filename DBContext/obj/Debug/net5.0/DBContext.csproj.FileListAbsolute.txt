@@ -1,0 +1,15 @@
+C:\Users\mariy\OneDrive\Desktop\MyBatch\MariyaBukhryakovaP1\DBContext\bin\Debug\net5.0\DBContext.deps.json
+C:\Users\mariy\OneDrive\Desktop\MyBatch\MariyaBukhryakovaP1\DBContext\bin\Debug\net5.0\DBContext.runtimeconfig.json
+C:\Users\mariy\OneDrive\Desktop\MyBatch\MariyaBukhryakovaP1\DBContext\bin\Debug\net5.0\DBContext.runtimeconfig.dev.json
+C:\Users\mariy\OneDrive\Desktop\MyBatch\MariyaBukhryakovaP1\DBContext\bin\Debug\net5.0\DBContext.dll
+C:\Users\mariy\OneDrive\Desktop\MyBatch\MariyaBukhryakovaP1\DBContext\bin\Debug\net5.0\ref\DBContext.dll
+C:\Users\mariy\OneDrive\Desktop\MyBatch\MariyaBukhryakovaP1\DBContext\bin\Debug\net5.0\DBContext.pdb
+C:\Users\mariy\OneDrive\Desktop\MyBatch\MariyaBukhryakovaP1\DBContext\obj\Debug\net5.0\DBContext.csproj.AssemblyReference.cache
+C:\Users\mariy\OneDrive\Desktop\MyBatch\MariyaBukhryakovaP1\DBContext\obj\Debug\net5.0\DBContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mariy\OneDrive\Desktop\MyBatch\MariyaBukhryakovaP1\DBContext\obj\Debug\net5.0\DBContext.AssemblyInfoInputs.cache
+C:\Users\mariy\OneDrive\Desktop\MyBatch\MariyaBukhryakovaP1\DBContext\obj\Debug\net5.0\DBContext.AssemblyInfo.cs
+C:\Users\mariy\OneDrive\Desktop\MyBatch\MariyaBukhryakovaP1\DBContext\obj\Debug\net5.0\DBContext.csproj.CoreCompileInputs.cache
+C:\Users\mariy\OneDrive\Desktop\MyBatch\MariyaBukhryakovaP1\DBContext\obj\Debug\net5.0\DBContext.dll
+C:\Users\mariy\OneDrive\Desktop\MyBatch\MariyaBukhryakovaP1\DBContext\obj\Debug\net5.0\ref\DBContext.dll
+C:\Users\mariy\OneDrive\Desktop\MyBatch\MariyaBukhryakovaP1\DBContext\obj\Debug\net5.0\DBContext.pdb
+C:\Users\mariy\OneDrive\Desktop\MyBatch\MariyaBukhryakovaP1\DBContext\obj\Debug\net5.0\DBContext.genruntimeconfig.cache
