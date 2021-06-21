@@ -8,5 +8,8 @@ namespace Models
     {
     interface IStore
         {
+        public int StoreLocation { get; set; }
+        public int StoreProduct { get; set; }
+        public int ProductInventory { get; set; }
         }
     }

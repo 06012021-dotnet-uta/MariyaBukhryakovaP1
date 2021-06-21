@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace Models
     {
-    interface I_ItemsInOrder
+    interface IitemsInOrder
         {
+        public int OrderId1 { get; set; }
+        public int OrderStoreId { get; set; }
+        public int OrderProductId { get; set; }
+        public int? OrderProductQantity { get; set; }
+
         }
     }

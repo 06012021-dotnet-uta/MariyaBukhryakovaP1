@@ -5,7 +5,7 @@ using System.Collections.Generic;
 
 namespace Models
     {
-    public class ItemsInOrder
+    public class ItemsInOrder : IitemsInOrder
         {
         public int OrderId1 { get; set; }
         public int OrderStoreId { get; set; }

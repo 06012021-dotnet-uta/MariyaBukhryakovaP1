@@ -3,41 +3,43 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
+using BusinessLayer;
+using DBContext;
 using Microsoft.EntityFrameworkCore;
-using Proj0DBContext;
 
 namespace Project0Blayer
 {
-    public class AccountInformation
-    {
-        public AccountInformation(string userName)
+    public class AccountInformation : IAccountInformation
         {
-            this.MyUserName = userName;
+        public AccountInformation(int customerID, Project0Context context)
+        {
+            this.CustomerID = customerID;
+            Project0Context _context;
         }
-        public string MyUserName { get; set; }
+        public int  CustomerID { get; set; }
         public Project0Context _context = new Project0Context();
         /// <summary>
         /// Prompting the user to register and a returen message for each field... do I want that?!
         /// </summary>
-        public int AccountHistoryMessage()
+        public void AccountHistoryMessage()
         {
-            var Accounts = _context.Customers.Where(x => x.CustomerUserName == MyUserName).ToList();
-            int userInput = 0;
+            //var Accounts = _context.Customers.Where(x => x.CustomerUserName == MyUserName).ToList();
+            //int userInput = 0;
 
 
-            foreach (var user in Accounts)
-            {
-                Console.WriteLine("**********************************************************");
-                Console.WriteLine($"Welcome {user.CustomerFirstName} {user.CustomerLastName}");
-                Console.WriteLine("Would you like to: \n1.Search for all active users by name and display their order history" +
-                    "\n2.Display your order history\n3.Review a location's order history\n4.Go shopping!" +
-                                 "\n**********************************************************" +
-                                 "\nPlease input your choice:");
+            //foreach (var user in Accounts)
+            //{
+            //    Console.WriteLine("**********************************************************");
+            //    Console.WriteLine($"Welcome {user.CustomerFirstName} {user.CustomerLastName}");
+            //    Console.WriteLine("Would you like to: \n1.Search for all active users by name and display their order history" +
+            //        "\n2.Display your order history\n3.Review a location's order history\n4.Go shopping!" +
+            //                     "\n**********************************************************" +
+            //                     "\nPlease input your choice:");
+            //}
+            //userInput = Convert.ToInt32(Console.ReadLine());
+            //return userInput;
+
             }
-            userInput = Convert.ToInt32(Console.ReadLine());
-            return userInput;
-
-        }
         public int AccountOptions()
         {
             var Accounts = _context.Customers.Where(x => x.CustomerUserName == MyUserName).ToList();
