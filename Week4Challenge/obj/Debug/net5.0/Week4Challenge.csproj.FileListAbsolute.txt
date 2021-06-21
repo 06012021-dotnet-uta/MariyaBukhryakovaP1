@@ -1,0 +1,16 @@
+C:\Users\mariy\OneDrive\Desktop\MyBatch\MariyaBukhryakovaP1\Week4Challenge\bin\Debug\net5.0\Week4Challenge.exe
+C:\Users\mariy\OneDrive\Desktop\MyBatch\MariyaBukhryakovaP1\Week4Challenge\bin\Debug\net5.0\Week4Challenge.deps.json
+C:\Users\mariy\OneDrive\Desktop\MyBatch\MariyaBukhryakovaP1\Week4Challenge\bin\Debug\net5.0\Week4Challenge.runtimeconfig.json
+C:\Users\mariy\OneDrive\Desktop\MyBatch\MariyaBukhryakovaP1\Week4Challenge\bin\Debug\net5.0\Week4Challenge.runtimeconfig.dev.json
+C:\Users\mariy\OneDrive\Desktop\MyBatch\MariyaBukhryakovaP1\Week4Challenge\bin\Debug\net5.0\Week4Challenge.dll
+C:\Users\mariy\OneDrive\Desktop\MyBatch\MariyaBukhryakovaP1\Week4Challenge\bin\Debug\net5.0\ref\Week4Challenge.dll
+C:\Users\mariy\OneDrive\Desktop\MyBatch\MariyaBukhryakovaP1\Week4Challenge\bin\Debug\net5.0\Week4Challenge.pdb
+C:\Users\mariy\OneDrive\Desktop\MyBatch\MariyaBukhryakovaP1\Week4Challenge\obj\Debug\net5.0\Week4Challenge.csproj.AssemblyReference.cache
+C:\Users\mariy\OneDrive\Desktop\MyBatch\MariyaBukhryakovaP1\Week4Challenge\obj\Debug\net5.0\Week4Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mariy\OneDrive\Desktop\MyBatch\MariyaBukhryakovaP1\Week4Challenge\obj\Debug\net5.0\Week4Challenge.AssemblyInfoInputs.cache
+C:\Users\mariy\OneDrive\Desktop\MyBatch\MariyaBukhryakovaP1\Week4Challenge\obj\Debug\net5.0\Week4Challenge.AssemblyInfo.cs
+C:\Users\mariy\OneDrive\Desktop\MyBatch\MariyaBukhryakovaP1\Week4Challenge\obj\Debug\net5.0\Week4Challenge.csproj.CoreCompileInputs.cache
+C:\Users\mariy\OneDrive\Desktop\MyBatch\MariyaBukhryakovaP1\Week4Challenge\obj\Debug\net5.0\Week4Challenge.dll
+C:\Users\mariy\OneDrive\Desktop\MyBatch\MariyaBukhryakovaP1\Week4Challenge\obj\Debug\net5.0\ref\Week4Challenge.dll
+C:\Users\mariy\OneDrive\Desktop\MyBatch\MariyaBukhryakovaP1\Week4Challenge\obj\Debug\net5.0\Week4Challenge.pdb
+C:\Users\mariy\OneDrive\Desktop\MyBatch\MariyaBukhryakovaP1\Week4Challenge\obj\Debug\net5.0\Week4Challenge.genruntimeconfig.cache
