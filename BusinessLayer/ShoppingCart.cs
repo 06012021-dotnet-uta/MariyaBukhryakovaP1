@@ -1,8 +1,6 @@
 
 using DBContext;
-using Microsoft.EntityFrameworkCore;
 using Models;
-using Proj0DBContext;
 using System;
 using System.Collections.Generic;
 using System.Data;

@@ -5,11 +5,11 @@ using System.Collections.Generic;
 
 namespace Models
     {
-    public class Product
+    public class Product : IProduct
         {
         public Product()
             {
-            Stores = new HashSet<Store>();
+            //Stores = new HashSet<Store>();
             }
 
         public int ProductId { get; set; }

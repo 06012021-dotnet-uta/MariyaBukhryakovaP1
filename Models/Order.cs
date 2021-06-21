@@ -5,9 +5,9 @@ using System.Collections.Generic;
 
 namespace Models
     {
-    public partial class Order
+    public class Order : IOrders
         {
-        public int OrderId { get; set; }
+        public int OrderId { get;  }
         public int OrderAccountId { get; set; }
         public int OrderStoreId { get; set; }
         public DateTime OrderDate { get; set; }

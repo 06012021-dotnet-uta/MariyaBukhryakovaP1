@@ -5,7 +5,7 @@ using System.Collections.Generic;
 
 namespace Models
     {
-    public partial class Store
+    public class Store: IStore
         {
         public int StoreLocation { get; set; }
         public int StoreProduct { get; set; }

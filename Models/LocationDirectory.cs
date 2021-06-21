@@ -5,12 +5,12 @@ using System.Collections.Generic;
 
 namespace Models
     {
-    public class LocationDirectory
+    public class LocationDirectory  : ILocationDirectory
         {
         public LocationDirectory()
             {
-            Customers = new HashSet<Customer>();
-            Stores = new HashSet<Store>();
+            //Customers = new HashSet<Customer>();
+            //Stores = new HashSet<Store>();
             }
 
         public int StoreId { get; set; }

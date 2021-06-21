@@ -8,4 +8,8 @@
     <PackageReference Include="ASP.NET.MVC" Version="3.0.0.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\DBContext\DBContext.csproj" />
+  </ItemGroup>
+
 </Project>
